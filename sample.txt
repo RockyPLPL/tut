@@ -1,2 +1,3 @@
 The Git command that even is known by monkeys.
 This is the content added.
+commit other things to create some conflict.
